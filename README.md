@@ -65,7 +65,8 @@ This project aims to develop a **mobile and web-based application** that helps *
 
 | SCREEN | SCREEN | SCREEN | SCREEN |
 |---------|------------|-------------|-------------|
-
+| ![Screenshot_20250407-142319](https://github.com/user-attachments/assets/066ac490-9b27-4f54-8d44-8f1d71901976) | ![Screenshot_20250407-142330](https://github.com/user-attachments/assets/a27ffa55-ec20-449d-b3ed-ade0657bd45b) | ![Screenshot_20250407-142340](https://github.com/user-attachments/assets/d85c45a0-cf19-4618-8811-a677e5d280cb) | ![Screenshot_20250407-142410](https://github.com/user-attachments/assets/95948d0a-299f-4348-a208-4e48a2323735) |
+|![Screenshot_20250407-142450](https://github.com/user-attachments/assets/f789df84-6a61-4c33-a6e5-e8d57158422d) | ![Screenshot_20250407-142515](https://github.com/user-attachments/assets/7f87ea94-9291-4d74-915c-c0ede0436309) |
 
 
 ### 📷 Screens Back-End
