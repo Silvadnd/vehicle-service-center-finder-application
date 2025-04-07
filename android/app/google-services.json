@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219800021678",
+    "project_id": "autofixlk-72a01",
+    "storage_bucket": "autofixlk-72a01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219800021678:android:be65c0e44f38bcaac55b3f",
+        "android_client_info": {
+          "package_name": "com.autofixlk.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeojExguVzX0xDgFavAKrnGZs7QTFXL6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
